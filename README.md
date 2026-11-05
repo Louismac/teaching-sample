@@ -14,13 +14,10 @@ Each session is a full four-hour class, and for each one the repo has everything
 
 ---
 
-## What every sample contains
-
 | Element | Where to find it | What it shows |
 |---|---|---|
-| **Overview** | `README.md` in each folder | The session at a glance: learning outcomes, schedule, a guide to the materials, and why it is designed the way it is |
 | **Delivery context** | `delivery-context.md` | The unit description, unit learning outcomes, class learning outcomes, timed lesson plan and further reading |
-| **Lecture** | Slides (`.pdf` or `.key`) and, where used, a notebook | The taught content |
+| **Lecture** | Slides (`.pdf) and, where used, a notebook | The taught content |
 | **Lab** | The `*-lab/` folder | Runnable code, briefs and troubleshooting notes for hands-on work |
 | **Critical activity** | Seminar prompts, discussion tasks, screenings | Space to question the technology as well as use it |
 
