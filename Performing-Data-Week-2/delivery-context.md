@@ -27,10 +27,10 @@ Performing Data is a 20 credit unit in Term 3 of MSc Applied Machine Learning fo
 
 | Time | Activity |
 |---|---|
-| 00:00–01:00 | Lecture |
+| 00:00–01:00 | [Lecture](performing-data-week-2-slides.pdf) |
 | 01:00–01:30 | Break |
 | 01:30–02:00 | Screen AI Scripted Films + Discussion |
-| 02:00–03:30 | Lab Time |
+| 02:00–03:30 | [Lab Time](performing-data-week-2-lab/LAB-BRIEF.md) |
 | 03:30–04:00 | "Table Read" of student outputs and reflection |
 
 # AI Scripted Films 
@@ -38,10 +38,3 @@ Performing Data is a 20 credit unit in Term 3 of MSc Applied Machine Learning fo
 [Sunspring, 2016](https://www.youtube.com/watch?v=LY7x2Ihqjmc)
 
 [Date Night, 2020](https://www.youtube.com/watch?v=xY1VWZPJ5FE&t=2s)
-
-# Lab Materials
-
-* [Lab guide](performing-data-week-2-lab/README.md)
-* [Performance briefs](performing-data-week-2-lab/brief.md)
-* [Running a local LLM](performing-data-week-2-lab/running-local-llm.md)
-* [Lecture slides](performing-data-week-2-slides.pdf)

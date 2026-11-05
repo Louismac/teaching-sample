@@ -33,18 +33,17 @@ racial and climate justice (Enquiry)
 
 | Time | Activity |
 |---|---|
-| 00:00–00:40 | Slides Lecture |
-| 00:40–01:00 | Notebook Lecture |
+| 00:00–00:40 | [Slides Lecture](dsforci_week1.pdf) |
+| 00:40–01:00 | [Notebook Lecture](legacies-of-british-slavery-notebook.ipynb) |
 | 01:00–01:30 | Break |
-| 01:30–02:00 | Missing Datasets Task |
+| 01:30–02:00 | [Missing Datasets Task](ds-for-ci-week-1-lab/lab-brief.md) |
 | 01:30–01:45 | Missing Datasets Discussion |
 | 01:45–02:00 | Break |
-| 02:00–04:00 | Dear Data Task |
+| 02:00–04:00 | [Dear Data Task](ds-for-ci-week-1-lab/lab-brief.md) |
 
 ## Additional Materials
 
 * [Notebook: The Legacies of British Slavery dataset](legacies-of-british-slavery-notebook.ipynb)
-* [Lab brief: Missing Datasets and Dear Data](ds-for-ci-week-1-lab/lab-brief.md)
 * Mimi Onuoha, [The Library of Missing Datasets](https://github.com/MimiOnuoha/missing-datasets)
 * Giorgia Lupi and Stefanie Posavec, *Dear Data*
 * Lisa Gitelman (ed.), *“Raw Data” Is an Oxymoron*

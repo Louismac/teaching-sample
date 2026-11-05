@@ -28,11 +28,10 @@ This unit provides an introduction to programming for digital media, focusing on
 
 | Time | Activity |
 |---|---|
-| 00:00–00:40 | Slides Lecture |
-| 00:40–01:00 | Notebook Lecture |
+| 00:00–01:00 | [Slides Lecture](coding4dm-week4-combined-lecture.pdf) |
 | 01:00–01:30 | Break |
-| 02:00–02:30 | Seminar Discussion |
-| 02:30–04:00 | Lab |
+| 02:00–02:30 | [Seminar Discussion](Seminar-prompts.md) |
+| 02:30–04:00 | [Lab](coding-for-digital-media-week-4-lab/LAB-BRIEF.md) |
 
 
 ## Additional Materials

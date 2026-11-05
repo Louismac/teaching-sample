@@ -29,10 +29,9 @@ Performing Data is a 20 credit unit in Term 3 of MSc Applied Machine Learning fo
 |---|---|
 | 00:00–01:00 | Lecture |
 | 01:00–01:30 | Break |
-| 01:30–03:30 | Group Performance Lab |
+| 01:30–03:30 | [Group Performance Lab](performing-data-week-5-lab/LAB-BRIEF.md) |
 | 03:30–04:00 | Performances |
 
-# Lab Materials
+# Additional Materials
 
-* [Lab guide](performing-data-week-5-lab/README.md)
 * [SD Turbo tuning notes](performing-data-week-5-lab/sd_turbo_tuning_notes.md)

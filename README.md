@@ -1,6 +1,6 @@
 # Teaching Samples: Louis McCallum
 
-Four complete teaching sessions from creative computing units taught at the **UAL Creative Computing Institute**. They range from introductory programming for digital media to MSc-level machine learning for live performance.
+Four complete teaching sessions from creative computing units. They range from introductory programming for digital media to MSc-level machine learning for live performance.
 
 Each session is a full four-hour class, and for each one the repo has everything needed to teach it:
 

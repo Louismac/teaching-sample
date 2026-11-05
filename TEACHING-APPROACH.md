@@ -6,9 +6,7 @@
 
 ## 1. Constructive alignment
 
-Every session starts from the unit’s learning outcomes and narrows them to three or four class outcomes. Each class outcome is then practised in the lab and revisited in the critical activity, so that what is taught, what students do and what is discussed all point at the same goals.
-
-Where to see it: the outcome tables in each overview.
+Session start from the unit’s learning outcomes and narrows them to three or four class outcomes. Each class outcome is then practised in the lab and revisited in the critical activity, so that what is taught, what students do and what is discussed all point at the same goals.
 
 | Session | Outcomes |
 |---|---|
@@ -58,8 +56,8 @@ Example code is short, with one idea per file, named after the concept it shows 
 Students use their own laptops, so no session assumes expensive hardware or paid accounts:
 
 - **Performing Data, Week 2** runs a 0.5B-parameter language model locally, with separate paths for Apple Silicon (MLX) and Windows or Intel machines (Ollama). A table helps students with more RAM step up to larger models. See [running a local LLM](Performing-Data-Week-2/performing-data-week-2-lab/running-local-llm.md).
-- **Performing Data, Week 5** uses SD Turbo, which needs only 1–4 steps. Install instructions cover Apple Silicon, CPU and NVIDIA. An [offline rendering extension](Performing-Data-Week-5/performing-data-week-5-lab/README.md#extension--offline-rendering-to-video) lets students on slower machines still produce high-quality work.
-- **Troubleshooting sections** anticipate the common failures, such as the wrong webcam index, display scaling and window focus. See the [Week 5 troubleshooting notes](Performing-Data-Week-5/performing-data-week-5-lab/README.md#troubleshooting).
+- **Performing Data, Week 5** uses SD Turbo, which needs only 1–4 steps. Install instructions cover Apple Silicon, CPU and NVIDIA. An [offline rendering extension](Performing-Data-Week-5/performing-data-week-5-lab/LAB-BRIEF.md#extension--offline-rendering-to-video) lets students on slower machines still produce high-quality work.
+- **Troubleshooting sections** anticipate the common failures, such as the wrong webcam index, display scaling and window focus. See the [Week 5 troubleshooting notes](Performing-Data-Week-5/performing-data-week-5-lab/LAB-BRIEF.md#troubleshooting).
 
 ## 7. Learning by making, sharing and performing
 
@@ -67,7 +65,7 @@ Every session ends with students making something and sharing it, which gives im
 
 | Session | Output | How it’s shared |
 |---|---|---|
-| Coding for Digital Media, Week 4 | A sound collage | [Brief](Coding-for-Digital-Media-Week-4/README.md#lab-and-collage-brief) |
+| Coding for Digital Media, Week 4 | A sound collage | Recordings posted to shared board |
 | Data Science in Creative Industries, Week 1 | A hand-made data drawing or performance | Gallery walk (“check out your colleagues’ results”) |
 | Performing Data, Week 2 | A script or live-generated performance | A “table read” of student outputs |
 | Performing Data, Week 5 | A live AI-visual performance | Group performances at the end of class |
