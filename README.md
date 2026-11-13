@@ -16,7 +16,7 @@ Each session is a full four-hour class, and for each one the repo has everything
 
 | Element | Where to find it | What it shows |
 |---|---|---|
-| **Delivery context** | `delivery-context.md` | The unit description, unit learning outcomes, class learning outcomes, timed lesson plan and further reading |
+| **Delivery context** | Class level `README.md` | The unit description, unit learning outcomes, class learning outcomes, timed lesson plan and further reading |
 | **Lecture** | Slides (`.pdf) and, where used, a notebook | The taught content |
 | **Lab** | The `*-lab/` folder | Runnable code, briefs and troubleshooting notes for hands-on work |
 | **Critical activity** | Seminar prompts, discussion tasks, screenings | Space to question the technology as well as use it |
