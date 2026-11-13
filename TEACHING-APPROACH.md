@@ -45,7 +45,7 @@ Each four-hour session follows a recognisable arc. Students know what to expect,
 Lecture (context + concepts) → Live code / notebook → Break → Critical activity → Lab (making) → Share / perform
 ```
 
-Timed plans are in each `delivery-context.md`.
+Timed plans are in each class level `README.md`.
 
 ## 5. Scaffolded, low-barrier code
 
